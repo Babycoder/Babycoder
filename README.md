@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Babycoder
 - 👀 I’m interested in software engineering and Digital Marketing.
-- 🌱 I’m currently student at [1337 Future Is Loading](https://www.linkedin.com/school/1337-future-is-loading/) and [UCD](https://www.fsjesj.ucd.ac.ma/) Senior year.
+- 🌱 I’m currently student at [1337 Future Is Loading](https://www.linkedin.com/school/1337-future-is-loading/) and [UCD](https://www.fsjesj.ucd.ac.ma/) Graduate.
 - 💞️ I’m looking to collaborate on web development and marketing projects
 
 <!---
